@@ -1,7 +1,7 @@
 
 Gem::Specification.new do |s|
   s.name = 'mysqltopostgres'
-  s.version = '0.2.20'
+  s.version = '0.2.21'
   s.licenses = ['MIT']
 
   s.authors = [
